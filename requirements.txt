@@ -1,0 +1,6 @@
+Pip install names
+Pip install colorama
+Pip install requests
+Pip install bs4
+Pip install faker
+Pip install twocaptcha}
